@@ -1,13 +1,13 @@
-  /*
-  * Name: IEEE tech committee
-  *
-  * File: gamelogic.js
-  *
-  * Description: program contains the logic of our two player pong
-    game using javascript. The below functions include how the pong
-    objects and variables interact through collisions, movement, and
-    animations.
-  */
+/*
+* Name: IEEE tech committee
+*
+* File: gamelogic.js
+*
+* Description: program contains the logic of our two player pong
+  game using javascript. The below functions include how the pong
+  objects and variables interact through collisions, movement, and
+  animations.
+*/
 
 window.requestAnimFrame = (function(callback) {
     return window.requestAnimationFrame || window.webkitRequestAnimationFrame || window.mozRequestAnimationFrame || window.oRequestAnimationFrame || window.msRequestAnimationFrame ||
