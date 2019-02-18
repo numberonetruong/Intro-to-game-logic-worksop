@@ -10,7 +10,7 @@ through javascript by creating a two player pong game.
  
 ##Author
 
-* **IEEE Tech Comittee** [mail to: jrpadua@ucsd.edu]
+* **IEEE Tech Committee** [mail to: jrpadua@ucsd.edu]
 
 
 ##Acknowledgements
